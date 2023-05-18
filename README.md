@@ -5,11 +5,11 @@ enter new book information, update existing book information, remove books from 
 
 ## Table of Contents
 
-[Installation]
-[Usage]
-[Credits]
+(#Installation)
+(#Usage)
+(#Credits)
 
-## Installation(#Installation)
+[## Installation]
 
 To use the program locally, you can follow along with these steps:
 
