@@ -5,13 +5,13 @@ enter new book information, update existing book information, remove books from 
 
 ## Table of Contents
 
-Installation
-Usage
-Credits
+[Installation]
+[Usage]
+[Credits]
 
-## Installation
+## Installation(#Installation)
 
-[To use the program locally, you can follow along with these steps:](#Installation)
+To use the program locally, you can follow along with these steps:
 
 1. Clone the repository to your local machine
 2. Ensure you have Python installed(version 3 or above)
@@ -24,7 +24,7 @@ Credits
 
 **python bookstore_program.py**
 
-## Usage
+## Usage(#Usage)
 
 [Once the program is installed, you can do he following:](#Usage)
 
@@ -41,7 +41,7 @@ Credits
 4. The program will perorm the selected operation on the bookstore database.
 5. Repeat steps 2-4 until you choose to exit the program.
 
-## Credits
+## Credits(#Credits)
 
 [This program was created by NoobDev1996. You can find the original repository at https://github.com/NoobDev1996/Bookstore-Program/tree/main](#Credits)
 
