@@ -4,10 +4,11 @@ This is a simple Python program that allows you to manage a bookstore using a SQ
 enter new book information, update existing book information, remove books from the database and search for books by their ID.
 
 ## Table of Contents
-
+---
 [Installation](#Installation)
 [Usage](#Usage)
 [Credits](#Credits)
+---
 
 ## Installation
 
