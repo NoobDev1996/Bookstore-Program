@@ -37,6 +37,12 @@ Once the program is installed, you can do he following:
 » Search book
 » Exit
 
+## Screenshots
+![image](https://github.com/NoobDev1996/Bookstore-Program/assets/111965209/2ff672b6-a957-44fc-9265-9a7ce044206f)
+![image](https://github.com/NoobDev1996/Bookstore-Program/assets/111965209/3ee9253a-05bd-4799-a629-be7fea21d8b1)
+![image](https://github.com/NoobDev1996/Bookstore-Program/assets/111965209/f3826bbf-3bb3-47cd-bbfe-274e139c4782)
+![image](https://github.com/NoobDev1996/Bookstore-Program/assets/111965209/0ec95326-3b39-4752-b56c-afd9a426dbad)
+
 2. Choose the desired option by entering the corresponding number and pressing Enter.
 3. Follow the onscreen prompts to enter the required information for each operation.
 4. The program will perorm the selected operation on the bookstore database.
