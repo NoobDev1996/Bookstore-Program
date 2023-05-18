@@ -11,7 +11,7 @@ Credits
 
 ## Installation
 
-To use the program locally, you can follow along with these steps:
+[To use the program locally, you can follow along with these steps:](#Installation)
 
 1. Clone the repository to your local machine
 2. Ensure you have Python installed(version 3 or above)
@@ -26,7 +26,7 @@ To use the program locally, you can follow along with these steps:
 
 ## Usage
 
-Once the program is installed, you can do he following:
+[Once the program is installed, you can do he following:](#Usage)
 
 1. The program will display a menu with the following options:
 
@@ -43,7 +43,7 @@ Once the program is installed, you can do he following:
 
 ## Credits
 
-This program was created by NoobDev1996. You can find the original repository at https://github.com/NoobDev1996/Bookstore-Program/tree/main
+[This program was created by NoobDev1996. You can find the original repository at https://github.com/NoobDev1996/Bookstore-Program/tree/main](#Credits)
 
 
 
