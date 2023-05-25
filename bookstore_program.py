@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sqlite3
 # import pandas as pd
 
@@ -130,7 +129,7 @@ c.execute('''INSERT INTO bookstore (ID, TITLE, AUTHOR, QTY)
 # print (df)
 
 conn.commit()
-=======
+
 import sqlite3
 # import pandas as pd
 
@@ -318,5 +317,5 @@ c.execute('''INSERT INTO bookstore (ID, TITLE, AUTHOR, QTY)
 # print (df)
 
 conn.commit()
->>>>>>> error-handling
+
 conn.close()
